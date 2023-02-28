@@ -1,0 +1,22 @@
+ <!-- Github history
+Git , github 
+Git bash
+Cmd
+Branch قسم او فرع 
+Repository المستودع repo
+README
+Clone استنساخ 
+recovery code
+commit 
+pull request
+pull
+push ترفع التعديلات  لل remot repo
+Fork-->
+
+
+$ git init
+$ git status
+$ git add .
+$ git commit -m "project added"
+$ git remote add origin link repo
+$ git push -u origin master
